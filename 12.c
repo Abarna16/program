@@ -11,8 +11,8 @@ int main()
          n=n/10;
      }
     if(x==rem)
-    printf("Yes");
+    printf("yes");
     else
-    printf("No");
+    printf("no");
     return 0;
 }
